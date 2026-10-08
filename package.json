@@ -1,0 +1,24 @@
+{
+  "name": "football-live-score-app",
+  "version": "1.0.0",
+  "description": "A live football scoreboard in one Node.js file: every match in play, with minute, score and corners, from one API call.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "live-scores",
+    "football-api",
+    "scoreboard"
+  ],
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fivedollarfootball": "^0.1.3"
+  }
+}
