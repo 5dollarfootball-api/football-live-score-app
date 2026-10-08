@@ -6,7 +6,7 @@ Built on the [5DollarFootballAPI](https://5dollarfootballapi.com), a cheap footb
 
 ![The scoreboard: live matches with minute, score and corners](docs/scoreboard.png)
 
-See it rendered live, with the walkthrough: **[5dollarfootballapi.com/examples/live-score-app](https://5dollarfootballapi.com/examples/live-score-app)**
+See the walkthrough, with sample output: **[5dollarfootballapi.com/examples/live-score-app](https://5dollarfootballapi.com/examples/live-score-app)**
 
 ## Run it
 
@@ -68,8 +68,10 @@ The free plan covers the top-5 European leagues at 60 requests an hour. Pro ($5/
 
 ## More examples
 
-- [football-corner-stats-table](https://github.com/5dollarfootball-api/football-corner-stats-table) — a league corner table from one call
+- [football-goal-alert-bot](https://github.com/5dollarfootball-api/football-goal-alert-bot) — goal alerts in Telegram or Discord
+- [football-odds-backtest](https://github.com/5dollarfootball-api/football-odds-backtest) — simple bets settled at opening vs closing odds
 - [football-odds-movement-chart](https://github.com/5dollarfootball-api/football-odds-movement-chart) — chart every price move of a match
+- [football-corner-stats-table](https://github.com/5dollarfootball-api/football-corner-stats-table) — a league corner table from one call
 - [All examples](https://5dollarfootballapi.com/examples)
 
 ## License
